@@ -21,4 +21,4 @@ def speak_to_grandma(string)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
-speak_to_grandma("hello")
+speak_to_grandma("i love you")
