@@ -15,3 +15,4 @@
 def speak_to_grandma
   puts 'I LOVE YOU TOO PUMPKIN!'
 end
+speak_to_grandma
